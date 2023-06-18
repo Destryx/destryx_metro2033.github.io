@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "Rescapé de Reach";
+var l_serverName = "Metro 2033";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -112,7 +112,7 @@ var l_musicDisplay = false;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://youtu.be/sg0FMz2ejSk", name: "Le Marché"},
+	{youtube: "", name: ""},
 ];
 
 // Random music order?
