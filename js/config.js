@@ -74,6 +74,7 @@ var l_bgImageMapBased = false;
 var l_bgImages = [
 	"background_01.png",
 	"background_02.png",
+	"background_03.png",
 ];
 
 // (Image-background only)
